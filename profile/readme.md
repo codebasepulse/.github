@@ -1,82 +1,38 @@
-<div align="center">
-  
-  <img src="https://codebasepulse.com/assets/github-banner.png" alt="Codebase Pulse Banner" width="100%" />
+# 📊 Codebase Pulse
+**Turning Technical Debt into a Financial Metric.**
 
-  <br />
-  <br />
+Syntax is solved by traditional linters. We built the engine that measures **Structural Integrity, Security Risks, and Engineering Vitality**. 
 
-  <h1>The pulse of high-performance systems.</h1>
+Codebase Pulse is an automated Technical Due Diligence (TDD) and Software Governance platform. We x-ray your enterprise .NET architecture in seconds to expose architectural drift, compliance risks, and key-person dependencies.
 
-  <p>
-    <b>Syntax is solved. We solve the physics of software engineering.</b>
-    <br />
-    Deep diagnostics, build forensics, and architectural intelligence for .NET, C++, AI & GameDev.
-  </p>
-
-  <br />
-
-  <a href="https://codebasepulse.com">
-    <img src="https://img.shields.io/badge/Early_Access-Request_Signal-00dc82?style=for-the-badge&labelColor=121217" alt="Get Early Access" />
-  </a>
-  <a href="https://twitter.com/CodebasePulse">
-    <img src="https://img.shields.io/badge/Follow_The_Build-@CodebasePulse-A855F7?style=for-the-badge&logo=x&labelColor=121217&logoColor=white" alt="Follow on X" />
-  </a>
-
-  <br />
-  <br />
-</div>
+[🌐 Website](https://codebasepulse.com) | [💼 Request an Audit](https://codebasepulse.com) | [👔 LinkedIn](https://www.linkedin.com/company/codebasepulse)
 
 ---
 
-### ⚡ Engineering Intelligence
+### ⚡ Enterprise Engineering Intelligence
+We build tools that treat your codebase as a sustainable financial asset, not just text files.
 
-We build tools that treat your codebase as a living system, not just text files.
-
-| **Module** | **Description** |
+| Module | Description |
 | :--- | :--- |
-| **Pulse Run** | **Deep Build Forensics.** We decode raw `.binlog` files to visualize critical paths, dependencies, and cut build duration. |
-| **Pulse Audit** | **Technical Debt Score.** Measure architecture hygiene and security risks with a single command. |
-| **Pulse Guard** | **Pre-commit Protection.** Stop silent vulnerabilities and large assets before they leave `localhost`. |
+| **Pulse Audit** | **Automated Tech Due Diligence.** 14-second deep scans that calculate the Maintenance Cost Index (MCI), Bus Factor, and generate Investment-Grade PDF Reports for C-level executives. |
+| **Pulse Gatekeeper** | **CI/CD Architecture Protection.** Native integration for your pipelines to block structural degradation, cyclic dependencies, and security risks directly in Pull Requests. |
+| **Pulse Compliance** | **Legal & Security SBOMs.** Automated CycloneDX SBOM generation, viral open-source license (GPL) detection, and container security checks. |
 
-<br />
+### 🛡️ Secure by Design: Zero Source Code Uploads
+In the era of AI and cloud leaks, your intellectual property must remain on your infrastructure. 
+Our lightweight CLI agent parses your codebase locally. **We only transmit anonymized mathematical abstractions** (file hashes, dependency topologies, churn metrics) to our evaluator. Your proprietary business logic never leaves your CI runner or local machine.
 
 ### 🏗️ Technology Stack
-
-We focus on ecosystems where performance is non-negotiable.
-
-<div align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSBuild-121217?style=flat-square&border=00dc82&color=00dc82" />
-  <img src="https://img.shields.io/badge/GameDev-121217?style=flat-square&border=A855F7&color=A855F7" />
-</div>
-
-<br />
+We are currently deeply specialized in environments where performance and reliability are non-negotiable:
+*   **Core Focus:** Enterprise `.NET` ecosystem (C#, MSBuild).
+*   **Integrations:** Azure DevOps, GitHub Actions, GitLab CI.
+*   *(Expansions for TypeScript/React and Java Enterprise are on the roadmap for 2026).*
 
 ---
 
-<div align="center">
-  <p>
-    <i>
-      "I spent nearly two decades in the <b>Defense & Aerospace</b> sectors, creating software for air traffic control and mission-critical systems.
-      <br />
-      We built Codebase Pulse to bring that same level of safety-critical engineering to your <b>development lifecycle</b>."
-    </i>
-  </p>
-  
-  <p>
-    <b>Ondrej Podhorny</b><br />
-    Founder & Lead Architect
-  </p>
+> *"I spent nearly two decades in the Defense & Aerospace sectors, where failure wasn't an option. That’s why we created Codebase Pulse—to bridge the gap between the Engineer's reality and the Owner's strategy. We solve the physics, so you can audit with mathematical certainty."*
+> 
+> **— Ondřej Podhorný, Founder & Lead Architect**
 
-  <a href="https://www.linkedin.com/in/OndrejPodhorny">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Ondrej-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-
-  <br />
-  <br />
-
-  <a href="https://codebasepulse.com">
-    <b>🟢 SIGNAL RECEIVED. JOIN THE WAITLIST.</b>
-  </a>
-</div>
+---
+🟢 **SIGNAL RECEIVED.[START MEASURING TODAY.](https://codebasepulse.com)**>
