@@ -8,7 +8,7 @@ We built it after seeing the same pattern across enterprise .NET codebases: team
 
 Codebase Pulse closes that gap — continuously.
 
-[🌐 Website](https://codebasepulse.com) | [💼 Request an Audit](https://codebasepulse.com) | [👔 LinkedIn](https://www.linkedin.com/company/codebasepulse)
+[🌐 Website](https://codebasepulse.com) | [👔 LinkedIn](https://www.linkedin.com/company/codebasepulse)
 
 ---
 
