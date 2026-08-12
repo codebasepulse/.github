@@ -1,36 +1,39 @@
-# 📊 Codebase Pulse
-**Turning Technical Debt into a Financial Metric.**
+# Codebase Pulse
 
-Syntax is solved by traditional linters. We built the engine that measures **Structural Integrity, Security Risks, and Engineering Vitality**. 
+**The Pulse of Your Codebase**
 
-Codebase Pulse is an automated Technical Due Diligence (TDD) and Software Governance platform. We x-ray your enterprise .NET architecture in seconds to expose architectural drift, compliance risks, and key-person dependencies.
+Codebase Pulse turns builds, test suites, and performance benchmarks into actionable engineering intelligence.
+
+We built it after seeing the same pattern across enterprise .NET codebases: teams ship blind. Builds slow down and nobody knows why. Key engineers leave and nobody knows what breaks. Performance regresses and it takes weeks to trace back to the commit that caused it.
+
+Codebase Pulse closes that gap — continuously.
 
 [🌐 Website](https://codebasepulse.com) | [💼 Request an Audit](https://codebasepulse.com) | [👔 LinkedIn](https://www.linkedin.com/company/codebasepulse)
 
 ---
 
-### ⚡ Enterprise Engineering Intelligence
-We build tools that treat your codebase as a sustainable financial asset, not just text files.
+## What We Measure
 
-| Module | Description |
-| :--- | :--- |
-| **Pulse Audit** | **Automated Tech Due Diligence.** 14-second deep scans that calculate the Maintenance Cost Index (MCI), Bus Factor, and generate Investment-Grade PDF Reports for C-level executives. |
-| **Pulse Gatekeeper** | **CI/CD Architecture Protection.** Native integration for your pipelines to block structural degradation, cyclic dependencies, and security risks directly in Pull Requests. |
-| **Pulse Compliance** | **Legal & Security SBOMs.** Automated CycloneDX SBOM generation, viral open-source license (GPL) detection, and container security checks. |
+- **Pipeline & Build Intelligence**
+  Continuous telemetry from your CI/CD — MSBuild phases, test suite drift, and performance regressions, tracked commit-by-commit.
 
-### 🛡️ Secure by Design: Zero Source Code Uploads
-In the era of AI and cloud leaks, your intellectual property must remain on your infrastructure. 
-Our lightweight CLI agent parses your codebase locally. **We only transmit anonymized mathematical abstractions** (file hashes, dependency topologies, churn metrics) to our evaluator. Your proprietary business logic never leaves your CI runner or local machine.
+- **Key Person Risk**
+  Git forensics expose "Ghost Code" and Bus Factor bottlenecks — who really owns your critical paths.
 
-### 🏗️ Technology Stack
-We are currently deeply specialized in environments where performance and reliability are non-negotiable:
-*   **Core Focus:** Enterprise `.NET` ecosystem (C#, MSBuild).
-*   **Integrations:** Azure DevOps, GitHub Actions, GitLab CI.
-*   *(Expansions for TypeScript/React and Java Enterprise are on the roadmap for 2026).*
+- **Repository Health**
+  Structural signals — binary bloat, LFS hygiene, and the physical condition of your codebase over time.
+
+- **Multi-Format Performance**
+  OpenTelemetry, Tracy, and BenchmarkDotNet — unified into one anomaly-detection layer, correlated with your commits.
+
+## Built on Software Physics
+
+We treat entropy, friction, and inertia as measurable engineering forces — not metaphors. Every signal Codebase Pulse surfaces is data, not opinion.
 
 ---
 
-> *"I spent nearly two decades in the Defense & Aerospace sectors, where failure wasn't an option. That’s why we created Codebase Pulse—to bridge the gap between the Engineer's reality and the Owner's strategy. We solve the physics, so you can audit with mathematical certainty."*
+> *"I spent nearly two decades in the Defense & Aerospace sectors, where failure wasn't an option. That discipline is why I built Codebase Pulse — to replace guesswork with runtime data. 
+We measure the physics of your codebase, so decisions are made on evidence, not intuition."*
 > 
 > **— Ondřej Podhorný, Founder & Lead Architect**
 
